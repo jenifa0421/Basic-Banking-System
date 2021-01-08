@@ -1,0 +1,109 @@
+.container{
+	height:1000px;
+	background-image:url(https://www.fg-a.com/wallpapers/2018-white-circles-on-black-background-image.jpg);
+	background-size: cover;
+}
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+.header {
+  height:50px;
+  width:100%;
+  
+  
+  
+}
+.header h1{
+	text-align:center;
+	color:white;
+	font-family:fajita;
+	padding-top:10px;
+}
+.header h3{
+	float:right;
+	color:white;
+	margin:10px 10px;
+}
+.btn-wrapper{
+	 margin:200px 200px;
+	 text-align:center;
+}
+
+table{
+	width:100%;
+	border-collapse: collapse;
+	
+}
+table td,table th{
+	border:1px solid pink;
+	padding:5px;
+	color:white;
+}
+h3{
+	text-align:center;
+	color:white;
+}
+.form{
+	text-align:center;
+}
+.touser{
+	height:50px;
+	width:200px;
+	margin-bottom:10px;
+	background-color:black;
+	color:white;
+}
+.fromuser{
+	height:50px;
+	width:200px;
+	margin-top:150px;
+	margin-bottom:10px;
+	background-color:black;
+	color:white;
+}
+.amt{ 
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+	background-color: #55acee;
+
+}
+.button{
+	 padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 10px;
+	background-color: #55acee;
+	margin-top:10px;
+	text-decoration:none;
+
+}
+.button:hover {
+  opacity: 1;
+}
+.a {
+  background-color: #239b76;
+}
+.b{
+	background-color: #3b5998;
+}
+.c {
+  background-color: #55acee;
+}
+.d{
+	 background-color: #239b76;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+}
+h2{
+	margin-top:50px;
+	color:white;
+	text-align:center;
+}
